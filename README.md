@@ -1,5 +1,5 @@
 # HackerRankSol
-Solutions for algorithmical problem via HackerRank.com
+Solutions for algorithmical problems via HackerRank.com in C# language.
 
 ---
 
