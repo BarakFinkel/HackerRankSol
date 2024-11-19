@@ -12,4 +12,4 @@ You can view my HackerRank profile [here](https://www.hackerrank.com/profile/bar
    **Solution**:  [Magic-Square-Forming.cs](https://github.com/BarakFinkel/HackerRankSol/blob/main/Magic-Square-Forming.cs)
 
 2. **Challenge**: [Bigger-is-Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)  
-   **Solution**:  [LarrysArr.cs](https://github.com/BarakFinkel/HackerRankSol/blob/main/Bigger-is-Greater.cs)
+   **Solution**:  [Bigger-is-Greater.cs](https://github.com/BarakFinkel/HackerRankSol/blob/main/Bigger-is-Greater.cs)
