@@ -27,12 +27,13 @@ class Result
         List<char> list = w.ToList();
 
         // Find the first character from the end that's smaller than the next character.
-        int right = list.Count - 1;
-        while (right > 0 &&  list[right - 1] >= list[right]) right--;
-        int i = right - 1;
+        int i = list.Count - 1;
+        while (i > 0 &&  list[i - 1] >= list[i]) i--;
         
-        if(right == 0) return "no answer";   // If no swap is needed, return no answer.         
-
+        if(i == 0) return "no answer";   // If no swap is needed, return no answer. 
+        
+        i--;
+        
         // Find the smallest character on the right side of pivot 'i' that is larger
         int j = list.Count - 1;
         while (list[j] <= list[i]) j--;
